@@ -22,8 +22,8 @@ GRAY = (128, 128, 128)
 DARK_GRAY = (64, 64, 64)
 
 # Movement timing constants
-MOVE_DELAY = 150  # milliseconds between moves
-INITIAL_MOVE_DELAY = 200  # initial delay before repeating
+MOVE_DELAY = 150
+INITIAL_MOVE_DELAY = 200
 
 class Tetris:
     def __init__(self):
